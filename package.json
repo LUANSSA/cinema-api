@@ -1,0 +1,22 @@
+{
+  "name": "starwars-api",
+  "version": "1.0.0",
+  "description": "starwars api desenvolvida em nodejs e mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LUANSSA/starwars-api.git"
+  },
+  "author": "Luan Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LUANSSA/starwars-api/issues"
+  },
+  "homepage": "https://github.com/LUANSSA/starwars-api#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

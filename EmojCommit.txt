@@ -1,0 +1,17 @@
+🎉 Commit Inicial:
+📝 Texto:
+✨ Novo recurso:
+🐛 Bugfix:
+🚑 Correção Crítica:
+🔒 Segurança:
+📇 Metadata:
+♻️ Refatoração:
+📚 Documentação:
+♿ Acessibilidade:
+🐎 Performace:
+🎨 CSS:
+🔧 Configuração:
+🚨 Teste:
+💩 Depreciado:
+🗑️ Removendo:
+🚧 Trabalho em progresso (WIP):
